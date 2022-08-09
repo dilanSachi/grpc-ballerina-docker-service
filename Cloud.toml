@@ -1,0 +1,7 @@
+[container.image]
+repository="dilansachi"
+name="grpc_ballerina_docker_service"
+tag="latest"
+
+[settings]
+buildImage=true

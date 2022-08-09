@@ -1,0 +1,9 @@
+[package]
+org = "dilan"
+name = "grpc_ballerina_docker_service"
+version = "0.1.0"
+distribution = "2201.1.1"
+
+[build-options]
+observabilityIncluded = true
+cloud = "docker"
